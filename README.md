@@ -1,2 +1,3 @@
 # Calc
-basic android application for a calc
+
+#Basic android application for a calc
